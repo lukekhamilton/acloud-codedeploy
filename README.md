@@ -1,2 +1,1 @@
-# acloud-codedeploy
-Acloud codedeploy tut
+# github-codedeploy
